@@ -1,0 +1,9 @@
+# Mot croisé un peu bizarre, pour tester les limites du code (ce
+# mot-croisé devrait fonctionner avec votre programme)
+lol:10:11:H:Expression textuelle d'un amusement leger
+non:11:10:V:Reponse negative
+anticonstitutionnellement:2:2:H:Mot le plus long de la langue francaise
+a:0:0:V:Premiere lettre de l'alphabet
+z:28:12:H:Derniere lettre de l'alphabet
+intergouvernementalisations:2:3:H:Mot encore plus long que le plus long de la langue francaise
+gouvernement:7:3:H:Diriger le pays

@@ -1,0 +1,11 @@
+# Adapté d'un document conçu par Florence Devouard et Publié par Wiki in Africa.
+# Avec le support de Creative Commons. Publié sous licence CC BY SA.
+perpetuel:9:0:V:Qui dure toujours, indefiniment
+inalienable:14:0:V:Qui ne peut être cede ou vendu a une autre personne
+contrefacon:4:1:H:Reproduction ou imitation d'un objet par une entreprise clandestine
+auteur:11:1:V:Personne qui est a l'origine de quelque chose
+creativite:0:4:H:Capacite a imaginer et a realiser quelque chose de nouveau
+internet:5:4:V:Ensemble de reseaux mondiaux interconnectés permettant d'accéder a de l'information
+oeuvre:7:6:H:Un objet physique ou virtuel resultant d'un travail realise par l'Homme
+idee:2:10:H:Ce que l'esprit concoit ou peut concevoir
+permission:13:10:H:Autorisation a faire quelque chose

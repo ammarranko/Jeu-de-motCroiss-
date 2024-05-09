@@ -1,0 +1,6 @@
+# Mot croisé très simple, pour tester le code
+# Juste pour le deuxième fichier, si je n'ai pas deux commentaire, ca plante.
+# vous pouvez voir que les autres marchent même si ils ont un seul commentaire
+# je n'ai trouvé aucune explanation malgré les heures que j'ai passé lattu.
+lol:0:1:H:Expression textuelle d'un amusement leger
+non:1:0:V:Reponse negative
